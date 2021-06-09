@@ -1,4 +1,4 @@
-![image-20210601130150126](C:\PL-900\EvidenciasMod3\Media\MOD3-00)
+
 
 ![image-20210601130324871](C:\PL-900\EvidenciasMod3\Media\MOD3-01.png)
 
@@ -26,7 +26,7 @@
 
 ![image-20210601184100827](C:\PL-900\EvidenciasMod3\Media\MOD3-12.png)
 
-![image-20210601184213547](C:\PL-900\EvidenciasMod3\Media\MOD3-13.png)
+![MOD3-13](C:\PL-900\EvidenciasMod3\Media\MOD3-13.png)
 
 ![image-20210601184425797](C:\Users\Yamal\AppData\Roaming\Typora\typora-user-images\image-20210601184425797.png)
 
