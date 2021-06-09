@@ -8,7 +8,7 @@
 
 
 
-![MOD3-04](EvidenciasMod2B\Media\MOD3-04.png)
+![MOD3-04](Media/MOD3-04.png)
 
 ![image-20210601131300676](C:\PL-900\EvidenciasMod3\Media\MOD3-05.png)
 
