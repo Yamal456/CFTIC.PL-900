@@ -1,6 +1,6 @@
 
 
-![image-20210601130324871](C:\PL-900\EvidenciasMod3\Media\MOD3-01.png)
+![image-20210601130324871](EvidenciasMod3/Media/MOD3-01.png)
 
 ![image-20210601130505547](C:\PL-900\EvidenciasMod3\Media\MOD3-02.png)
 
