@@ -1,53 +1,50 @@
+![MOD3-00](/Media/MOD3-00.png)
 
+![MOD3-01](/Media/MOD3-01.png)
 
-![image-20210601185914130](C:\PL-900\EvidenciasMod3\Media\MOD3-00.png)
+![MOD3-02](/Media/MOD3-02.png)
 
-![image-20210601190424234](C:\PL-900\EvidenciasMod3\Media\MOD3-01.png)
+![MOD3-03](/Media/MOD3-03.png)
 
-![image-20210601190542635](C:\PL-900\EvidenciasMod3\Media\MOD3-02.png)
+![MOD3-04](/Media/MOD3-04.png)
 
-![image-20210601190713785](C:\PL-900\EvidenciasMod3\Media\MOD3-03.png)
+![MOD3-05](/Media/MOD3-05.png)
 
-![image-20210601190850012](C:\PL-900\EvidenciasMod3\Media\MOD3-04.png)
+![MOD3-06](/Media/MOD3-06.png)
 
-![image-20210601191024164](C:\PL-900\EvidenciasMod3\Media\MOD3-05.png)
+![MOD3-07](/Media/MOD3-07.png)
 
-![image-20210601191333001](C:\PL-900\EvidenciasMod3\Media\MOD3-06.png)
+![MOD3-08](/Media/MOD3-08.png)
 
-![image-20210601191450277](C:\PL-900\EvidenciasMod3\Media\MOD3-07.png)
+![MOD3-09](/Media/MOD3-09.png)
 
-![image-20210601191609600](C:\PL-900\EvidenciasMod3\Media\MOD3-08.png)
+![MOD3-10](/Media/MOD3-10.png)
 
-![image-20210601191631573](C:\PL-900\EvidenciasMod3\Media\MOD3-09.png)
+![MOD3-11](/Media/MOD3-11.png)
 
-![image-20210601191730099](C:\PL-900\EvidenciasMod3\Media\MOD3-10.png)
+![MOD3-12](/Media/MOD3-12.png)
 
+![MOD3-13](/Media/MOD3-13.png)
 
+![MOD3-14](/Media/MOD3-14.png)
 
-![image-20210601191936247](C:\PL-900\EvidenciasMod3\Media\MOD3-11.png)
+![MOD3-15](/Media/MOD3-15.png)
 
-![image-20210601192110763](C:\PL-900\EvidenciasMod3\Media\MOD3-12.png)
+![MOD3-16](/Media/MOD3-16.png)
 
-![image-20210601192648732](C:\PL-900\EvidenciasMod3\Media\MOD3-13.png)
+![MOD3-17](/Media/MOD3-17.png)
 
-![image-20210601192839911](C:\PL-900\EvidenciasMod3\Media\MOD3-14.png)
+![MOD3-18](/Media/MOD3-18.png)
 
-![image-20210601193009281](C:\PL-900\EvidenciasMod3\Media\MOD3-15.png)
+![MOD3-19](/Media/MOD3-19.png)
 
-![image-20210601193107068](C:\PL-900\EvidenciasMod3\Media\MOD3-16.png)
+![MOD3-20](/Media/MOD3-20.png)
 
-![image-20210601193239553](C:\PL-900\EvidenciasMod3\Media\MOD3-17.png)
+![MOD3-21](/Media/MOD3-21.png)
 
-![image-20210601193740804](C:\PL-900\EvidenciasMod3\Media\MOD3-18.png)
+![MOD3-22](/Media/MOD3-22.png)
 
-![image-20210601193940997](C:\PL-900\EvidenciasMod3\Media\MOD3-19.png)
+![MOD3-23](/Media/MOD3-23.png)
 
-![image-20210601194030035](C:\PL-900\EvidenciasMod3\Media\MOD3-20.png)
+![MOD3-24](/Media/MOD3-24.png)
 
-![image-20210601194431588](C:\PL-900\EvidenciasMod3\Media\MOD3-21.png)
-
-![image-20210601194725623](C:\PL-900\EvidenciasMod3\Media\MOD3-22.png)
-
-![image-20210601194819514](C:\PL-900\EvidenciasMod3\Media\MOD3-23.png)
-
-![image-20210601195729787](C:\PL-900\EvidenciasMod3\Media\MOD3-24.png)
